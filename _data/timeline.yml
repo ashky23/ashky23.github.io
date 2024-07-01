@@ -38,13 +38,13 @@
     - tag: Python
     - tag: Flask
     - tag: Machine Learning
-  timeline-side: left
+  timeline-side: right
 
 - title: National Institute Of Technology (NIT) Hamirpur
   title-url: http://nith.ac.in/
   date: 2016 - 2020
   subtitle: Bachelor Of Technology (B.Tech) in Electronics & Communication Engineering
-  timeline-side: right
+  timeline-side: left
 
 - title: YellowAnt
   title-url: https://www.yellowant.com/
@@ -54,4 +54,4 @@
     - tag: Python
     - tag: Node
     - tag: Javascript
-  timeline-side: left
+  timeline-side: right
