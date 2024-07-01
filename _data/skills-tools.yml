@@ -21,10 +21,16 @@
   weight: 1
 
 - name: Kubernetes
-  weight: 4
+  weight: 3
 
 - name: AWS
   weight: 4
+
+- name: EC2
+  weight: 2
+
+- name: S3
+  weight: 2
 
 - name: Kafka
   weight: 3
@@ -42,7 +48,10 @@
   weight: 3
 
 - name: Microservices
-  weight: 3
+  weight: 2
 
 - name: Elastic Search
+  weight: 1
+
+- name: Agile
   weight: 1

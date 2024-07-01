@@ -6,13 +6,16 @@
 #   weight: 5
 
 - name: Node
-  weight: 1
+  weight: 2
 
 - name: Django
   weight: 4
 
 - name: Express
-  weight: 3
+  weight: 2
 
 - name: GoFiber
   weight: 4
+
+- name: Flask
+  weight: 2
