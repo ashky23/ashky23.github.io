@@ -9,28 +9,40 @@
   weight: 5
 
 - name: Bash
+  weight: 4
+
+- name: BuildKite
   weight: 3
 
-- name: Scrum
-  weight: 3
-
-- name: Travis CI
-  weight: 1
+- name: Docker
+  weight: 4
 
 - name: Jenkins
   weight: 1
 
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: Kubernetes
   weight: 4
 
-- name: VS Code
+- name: AWS
+  weight: 4
+
+- name: Kafka
   weight: 3
 
-- name: Postman
+- name: Celery
+  weight: 2
+
+- name: Redis
   weight: 4
+
+- name: Graphana
+  weight: 3
+
+- name: Prometheus
+  weight: 3
+
+- name: Microservices
+  weight: 3
+
+- name: Elastic Search
+  weight: 1
