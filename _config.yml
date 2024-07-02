@@ -30,7 +30,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Passionate and results-oriented Software Engineer specializing in backend development. Proficient in Python, Golang, and C++, with extensive hands-on experience in frameworks like Django, Flask, Express, GoFiber and Node.js.
+about_me_description: Passionate and results-oriented Software Engineer with a strong focus on backend development. Proficient in Python, Golang, and C++, I specialize in designing and implementing efficient backend systems. Experienced with frameworks such as Django, Flask, Gofiber and Node.js, I bring a commitment to delivering high-quality solutions that meet both user needs and business goals.
 
 # SKILLS SECTION
 # show_skills_card:
