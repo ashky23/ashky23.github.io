@@ -12,7 +12,7 @@ baseurl: ""
 username: Akash Kumar
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Senior Software Engineer
+typing_text: Software Engineer
 # email: Your E-Mail address for the email button.
 email: ashky.236@example.com
 # For every social button you want to display, set your username or userid
@@ -30,7 +30,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Passionate and driven Software Engineer with a strong focus on backend development. I am well-versed in programming languages such as Python, Golang, and C++, and have hands-on experience with various frameworks and technologies including Django, Flask, and Node.js.
+about_me_description: Passionate and results-oriented Software Engineer specializing in backend development. Proficient in Python, Golang, and C++, with extensive hands-on experience in frameworks like Django, Flask, Express, GoFiber and Node.js.
 
 # SKILLS SECTION
 # show_skills_card:
