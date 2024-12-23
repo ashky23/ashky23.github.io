@@ -17,9 +17,24 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Innovaccer
+  title-url: https://innovaccer.com/
+  date: Sep 2024 - Present
+  subtitle: Senior Software Engineer
+  tags:
+    - tag: Python
+    - tag: Golang
+    - tag: Django
+    - tag: FastAPI
+    - tag: GoFiber
+    - tag: AWS
+    - tag: Kubernetes
+    - tag: Devops
+  timeline-side: right
+
 - title: Esper
   title-url: https://esper.io/
-  date: Dec 2021 - Present
+  date: Dec 2021 - Aug 2024
   subtitle: Senior Software Engineer
   tags:
     - tag: Python
@@ -28,7 +43,7 @@
     - tag: GoFiber
     - tag: AWS
     - tag: Kubernetes
-  timeline-side: right
+  timeline-side: left
 
 - title: Accenture
   title-url: https://www.accenture.com/in-en
